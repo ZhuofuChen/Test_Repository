@@ -1,7 +1,17 @@
 
-Hi, this is my first REST API
+# Hi, this is my first REST API
 
-Description:
-It's about the store
+## Installation
+
+```
+pip install Flask
+python app.py
+```
+
+## Description
+
+## Implementation
+
+This project is implemented using Flask, and is a REST API for a store.
 
 Enjoy!
